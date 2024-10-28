@@ -8,7 +8,7 @@ The course is structured into the following notebooks:
 
 -  [01_python_basic_calculator.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/01_python_basic_calculator.ipynb) Basic operations and data types in `Python`
 
-- [02_python_strings.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/02_python_strings.ipynb) String methods and formatting
+- [02_python_strings_lists.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/02_python_strings_lists.ipynb) String/List methods and formatting
 
 - [03_python_data_structures.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/03_python_data_structures.ipynb) List operations: Indexing, slicing and manipulating; Tuples and Sets; Dictionaries
 
