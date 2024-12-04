@@ -16,7 +16,7 @@ The course is structured into the following notebooks:
 
 - [05_python_functions.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/05_python_functions.ipynb) Function definitions, function arguments, variable scope
 
-- [06_python_arrays.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/06_python_arrays.ipynb) Introduction to `NumPy` arrays
+- [06_numpy_arrays.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/06_numpy_arrays.ipynb) Introduction to `NumPy` arrays
 
 - [07_pandas_basic_operations.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/07_pandas_basic_operations.ipynb) Basic data analysis with `pandas`
 
