@@ -18,6 +18,8 @@ The course is structured into the following notebooks:
 
 - [06_numpy_arrays.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/06_numpy_arrays.ipynb) Introduction to `NumPy` arrays
 
-- [07_pandas_basic_operations.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/07_pandas_basic_operations.ipynb) Basic data analysis with `pandas`
+- [07_pandas_basics.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/07_pandas_basics.ipynb) Basic data analysis with `pandas`
 
 - [08_pandas_agg_group.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/08_pandas_agg_group.ipynb) Statistical analysis of data, dataset operations
+
+- [09_seaborn.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/09_seaborn.ipynb) Data visualization with Seaborn
