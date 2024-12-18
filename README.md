@@ -20,6 +20,6 @@ The course is structured into the following notebooks:
 
 - [07_pandas_basics.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/07_pandas_basics.ipynb) Basic data analysis with `pandas`
 
-- [08_pandas_agg_group.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/08_pandas_agg_group.ipynb) Statistical analysis of data, dataset operations
+- [08_pandas_advanced.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/08_pandas_advanced.ipynb) Statistical analysis of data, dataset operations
 
 - [09_seaborn.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/09_seaborn.ipynb) Data visualization with Seaborn
