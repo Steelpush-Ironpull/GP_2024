@@ -25,3 +25,5 @@ The course is structured into the following notebooks:
 - [09_seaborn.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/09_seaborn.ipynb) Data visualization with Seaborn
 
 - [10_a_fun_dataset.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/10_a_fun_dataset.ipynb) Data analysis on an *interesting* data set
+
+- [12_classes.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/12_classes.ipynb) Introduction to Python classes.
