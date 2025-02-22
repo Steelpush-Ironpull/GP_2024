@@ -2,6 +2,8 @@
 
 This is the repository for the Bachelor's course: [11-01-1112-pr Grundpraktikum Programmieren](https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000334,-N0,-N390274845595770,-N390274845567771,-N0,-N0,-N0) at Technical University Darmstadt. The aim of this course is to familiarize students with data processing in `Python`.
 
+You are welcome to use parts of this repository. While attribution is not required, it would mean the world to me if you could credit us.
+
 The course is structured into the following notebooks:
 
 - [00_jupyter_LaTeX.ipynb](https://github.com/Steelpush-Ironpull/GP_2024/blob/main/00_jupyter_LaTeX.ipynb) Introduction to Jupyter notebooks and typesetting using LaTeX.
